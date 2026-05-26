@@ -1,0 +1,17 @@
+# Docker volumes (not committed)
+pg-data/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python bootstrap cache
+__pycache__/
+*.pyc
+.venv/
+
+# Original lab filenames (canonical copies are DDL.sql / DATA.sql)
+DDL (1).sql
+DATA (1).sql
